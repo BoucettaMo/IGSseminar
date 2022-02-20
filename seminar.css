@@ -1,0 +1,76 @@
+body {
+    background-color: rgba(194, 164, 134, 0.397);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+}
+
+
+p {
+    color: rgb(8, 71, 8);
+    padding: 5px;
+    border-radius: 8px;
+    padding: auto;
+    background-color: rgba(150, 98, 45, 0.397);
+    
+    
+    
+    
+}
+
+a {
+
+color: blue;
+
+}
+
+li {
+    list-style: none;
+    background-color: rgba(150, 98, 45, 0.397);
+    color: black;
+    border-radius: 12px;
+}
+
+table, th, td {
+    background-color: rgba(150, 98, 45, 0.397);
+    border: 1px solid black;
+    padding: 20px;
+  }
+
+
+  .container {
+    display: grid;
+    grid-template-columns:  1fr 2fr 1fr  ;
+        grid-gap: 4px;
+  }
+
+  .containers {
+    display: grid;
+    grid-template-columns:  2fr 2fr 1fr ;
+        grid-gap: 4px;
+  }
+
+  div {
+ background-color: rgba(150, 98, 45, 0.397); 
+ text-align: center;
+ padding: 10px;
+  }
+
+  .members-seminar  {
+      color: rgb(12, 11, 11);
+  }
+  a:hover {
+      color: blue;
+  }
+
+  .main {
+      text-decoration: none;
+  }
+
+  .main:hover {
+      color: blue;
+  }
