@@ -67,10 +67,15 @@ table, th, td {
       color: blue;
   }
 
-  .main {
-      text-decoration: none;
-  }
+  
+.main1 {
+    text-decoration: none;
+    color: black
+}
+.main1:hover {
+    color: rgb(158, 54, 190);
+}
+  
 
-  .main:hover {
-      color: blue;
-  }
+
+  
